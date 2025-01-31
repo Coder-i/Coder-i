@@ -10,7 +10,7 @@
 
   <!-- ASCII Art (Left) -->
   <div style="flex: 0.5; text-align: center;">
-    <img src="ASCII-art (1).png"/>
+    <img width=400 height=400 src="ASCII-art (1).png"/>
   </div>
 
   <!-- About Me (Right) -->
